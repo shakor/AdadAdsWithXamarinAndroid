@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="MyPackageInCafeBazaar" android:versionCode="1" android:versionName="1.0">
+	<uses-sdk android:targetSdkVersion="19" android:minSdkVersion="14" />
+  <uses-permission android:name="com.farsitel.bazaar.permission.PAY_THROUGH_BAZAAR" />
+  <uses-permission android:name="android.permission.INTERNET" />  
+  <application android:label="AzmonEstekhdami-4javabi.com" android:icon="@drawable/Icon">
+    <activity
+    android:name="ir.adad.client.AdadActivity"
+    android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+    android:theme="@android:style/Theme.Translucent"/>
+    <meta-data
+    android:name="AdadToken"
+    android:value="a60317bcbd3a4b1ab374a0fa9545f082" />
+    <meta-data
+    android:name="AdadTestMode"
+    android:value="true"/>
+  </application>
+</manifest>

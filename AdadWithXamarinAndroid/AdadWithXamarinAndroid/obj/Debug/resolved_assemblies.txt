@@ -1,0 +1,2 @@
+E:\Sharaf\Android\VS2015\MyTest\AdadWithXamarinAndroid\AdadWithXamarinAndroid\bin\Debug\AdadWithXamarinAndroid.dll
+E:\Sharaf\Android\VS2015\MyTest\JarBinding\JarBinding\bin\Debug\JarBinding.dll

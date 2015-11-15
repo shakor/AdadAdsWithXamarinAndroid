@@ -1,0 +1,16 @@
+E:\Sharaf\Android\VS2015\MyTest\AdadWithXamarinAndroid\AdadWithXamarinAndroid\bin\Debug\AdadWithXamarinAndroid.dll
+E:\Sharaf\Android\VS2015\MyTest\AdadWithXamarinAndroid\AdadWithXamarinAndroid\bin\Debug\AdadWithXamarinAndroid.pdb
+E:\Sharaf\Android\VS2015\MyTest\AdadWithXamarinAndroid\AdadWithXamarinAndroid\bin\Debug\AdadWithXamarinAndroid.dll.mdb
+E:\Sharaf\Android\VS2015\MyTest\AdadWithXamarinAndroid\AdadWithXamarinAndroid\bin\Debug\AzmonEstekhdami_4javabi.com.apk
+E:\Sharaf\Android\VS2015\MyTest\AdadWithXamarinAndroid\AdadWithXamarinAndroid\bin\Debug\AzmonEstekhdami_4javabi.com-Signed.apk
+E:\Sharaf\Android\VS2015\MyTest\AdadWithXamarinAndroid\AdadWithXamarinAndroid\bin\Debug\JarBinding.dll
+E:\Sharaf\Android\VS2015\MyTest\AdadWithXamarinAndroid\AdadWithXamarinAndroid\bin\Debug\JarBinding.pdb
+E:\Sharaf\Android\VS2015\MyTest\AdadWithXamarinAndroid\AdadWithXamarinAndroid\bin\Debug\JarBinding.dll.mdb
+E:\Sharaf\Android\VS2015\MyTest\AdadWithXamarinAndroid\AdadWithXamarinAndroid\obj\Debug\AdadWithXamarinAndroid.dll
+E:\Sharaf\Android\VS2015\MyTest\AdadWithXamarinAndroid\AdadWithXamarinAndroid\obj\Debug\AdadWithXamarinAndroid.pdb
+E:\Sharaf\Android\VS2015\MyTest\AdadWithXamarinAndroid\AdadWithXamarinAndroid\obj\Debug\android\bin\AzmonEstekhdami_4javabi.com.apk
+E:\Sharaf\Android\VS2015\MyTest\AdadWithXamarinAndroid\AdadWithXamarinAndroid\obj\Debug\res\layout\main.xml
+E:\Sharaf\Android\VS2015\MyTest\AdadWithXamarinAndroid\AdadWithXamarinAndroid\obj\Debug\res\values\strings.xml
+E:\Sharaf\Android\VS2015\MyTest\AdadWithXamarinAndroid\AdadWithXamarinAndroid\obj\Debug\res\drawable\icon.png
+E:\Sharaf\Android\VS2015\MyTest\AdadWithXamarinAndroid\AdadWithXamarinAndroid\obj\Debug\R.cs.flag
+E:\Sharaf\Android\VS2015\MyTest\AdadWithXamarinAndroid\AdadWithXamarinAndroid\obj\Debug\uploadflags.txt

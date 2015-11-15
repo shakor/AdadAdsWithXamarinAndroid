@@ -1,0 +1,15 @@
+E:\Sharaf\Android\VS2015\MyTest\AdadWithXamarinAndroid\AdadWithXamarinAndroid\bin\Release\AdadWithXamarinAndroid.dll
+E:\Sharaf\Android\VS2015\MyTest\AdadWithXamarinAndroid\AdadWithXamarinAndroid\bin\Release\AdadWithXamarinAndroid.pdb
+E:\Sharaf\Android\VS2015\MyTest\AdadWithXamarinAndroid\AdadWithXamarinAndroid\bin\Release\AzmonEstekhdami_4javabi.com.apk
+E:\Sharaf\Android\VS2015\MyTest\AdadWithXamarinAndroid\AdadWithXamarinAndroid\bin\Release\AzmonEstekhdami_4javabi.com-Signed.apk
+E:\Sharaf\Android\VS2015\MyTest\AdadWithXamarinAndroid\AdadWithXamarinAndroid\bin\Release\JarBinding.dll
+E:\Sharaf\Android\VS2015\MyTest\AdadWithXamarinAndroid\AdadWithXamarinAndroid\bin\Release\JarBinding.pdb
+E:\Sharaf\Android\VS2015\MyTest\AdadWithXamarinAndroid\AdadWithXamarinAndroid\bin\Release\JarBinding.dll.mdb
+E:\Sharaf\Android\VS2015\MyTest\AdadWithXamarinAndroid\AdadWithXamarinAndroid\obj\Release\AdadWithXamarinAndroid.dll
+E:\Sharaf\Android\VS2015\MyTest\AdadWithXamarinAndroid\AdadWithXamarinAndroid\obj\Release\AdadWithXamarinAndroid.pdb
+E:\Sharaf\Android\VS2015\MyTest\AdadWithXamarinAndroid\AdadWithXamarinAndroid\obj\Release\android\bin\AzmonEstekhdami_4javabi.com.apk
+E:\Sharaf\Android\VS2015\MyTest\AdadWithXamarinAndroid\AdadWithXamarinAndroid\obj\Release\res\layout\main.xml
+E:\Sharaf\Android\VS2015\MyTest\AdadWithXamarinAndroid\AdadWithXamarinAndroid\obj\Release\res\values\strings.xml
+E:\Sharaf\Android\VS2015\MyTest\AdadWithXamarinAndroid\AdadWithXamarinAndroid\obj\Release\res\drawable\icon.png
+E:\Sharaf\Android\VS2015\MyTest\AdadWithXamarinAndroid\AdadWithXamarinAndroid\obj\Release\R.cs.flag
+E:\Sharaf\Android\VS2015\MyTest\AdadWithXamarinAndroid\AdadWithXamarinAndroid\obj\Release\uploadflags.txt

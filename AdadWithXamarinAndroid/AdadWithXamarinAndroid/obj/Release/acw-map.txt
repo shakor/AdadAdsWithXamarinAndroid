@@ -1,0 +1,8 @@
+AdadWithXamarinAndroid.MainActivity, AdadWithXamarinAndroid;md53d4cb5e75ffa139669fe3eea0c191664.MainActivity
+AdadWithXamarinAndroid.MainActivity, AdadWithXamarinAndroid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md53d4cb5e75ffa139669fe3eea0c191664.MainActivity
+AdadWithXamarinAndroid.MainActivity;md53d4cb5e75ffa139669fe3eea0c191664.MainActivity
+adadwithxamarinandroid.MainActivity;md53d4cb5e75ffa139669fe3eea0c191664.MainActivity
+IR.Adad.Client.IAdListenerImplementor, JarBinding;mono.ir.adad.client.AdListenerImplementor
+IR.Adad.Client.IAdListenerImplementor, JarBinding, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.ir.adad.client.AdListenerImplementor
+IR.Adad.Client.IAdListenerImplementor;mono.ir.adad.client.AdListenerImplementor
+ir.adad.client.IAdListenerImplementor;mono.ir.adad.client.AdListenerImplementor
